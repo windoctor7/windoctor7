@@ -1,7 +1,6 @@
 ![banner](https://raw.githubusercontent.com/windoctor7/windoctor7/main/img/banner.gif)
 
 # ¡Hola! Soy  Ascari Romo 😄
----
 
 Me gusta compartir lo que aprendo, considero que es una excelente forma de seguir aprendiendo y de ayudar a otros. Mis áreas de interés son el desarrollo de software, ciencia de datos, customer experience, fintech, open banking y temas sobre finanzas personales e inversiones. Particularmente en este blog encontrarás temas relacionados al desarrollo de software.
 
@@ -16,10 +15,9 @@ Actualmente trabajo en Grupo Salinas como director de sistemas.
 |<img src="https://github.com/windoctor7/windoctor7/raw/main/img/docker.png" width=60>| <img src="https://github.com/windoctor7/windoctor7/raw/main/img/vim_94609.png" width=60>| <img src="https://github.com/windoctor7/windoctor7/raw/main/img/RStudio.png" width=60>|  <img src="https://github.com/windoctor7/windoctor7/raw/main/img/intellij.png" width=60> |
 |:---:|:---:|:---:|:---:|
 
----
 
 ## Mis proyectos!
-| Blogestry  |<img src="https://github.com/windoctor7/windoctor7.github.io/raw/master/static/img/blogestry-retina2.png" width=160>   |
+| Blogestry  |<img src="https://github.com/windoctor7/windoctor7.github.io/raw/master/static/img/blogestry-retina2.png" width=512>   |
 |---|---|
 
 ### Hi there 👋
