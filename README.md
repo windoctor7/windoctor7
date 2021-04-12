@@ -1,5 +1,12 @@
 ![banner](https://raw.githubusercontent.com/windoctor7/windoctor7/main/img/banner.gif)
 
+# ¡Hola! Soy  Ascari Romo 😄
+---
+
+Me gusta compartir lo que aprendo, considero que es una excelente forma de seguir aprendiendo y de ayudar a otros. Mis áreas de interés son el desarrollo de software, ciencia de datos, customer experience, fintech, open banking y temas sobre finanzas personales e inversiones. Particularmente en este blog encontrarás temas relacionados al desarrollo de software.
+
+Actualmente trabajo en Grupo Salinas como director de sistemas.
+
 ### Hi there 👋
 
 <!--
