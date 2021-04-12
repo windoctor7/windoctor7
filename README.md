@@ -16,6 +16,12 @@ Actualmente trabajo en Grupo Salinas como director de sistemas.
 |<img src="https://github.com/windoctor7/windoctor7/raw/main/img/docker.png" width=60>| <img src="https://github.com/windoctor7/windoctor7/raw/main/img/vim_94609.png" width=60>| <img src="https://github.com/windoctor7/windoctor7/raw/main/img/RStudio.png" width=60>|  <img src="https://github.com/windoctor7/windoctor7/raw/main/img/intellij.png" width=60> |
 |:---:|:---:|:---:|:---:|
 
+---
+
+## Mis proyectos!
+| Blogestry  |<img src="https://github.com/windoctor7/windoctor7.github.io/raw/master/static/img/blogestry-retina2.png" width=160>   |
+|---|---|
+
 ### Hi there 👋
 
 <!--
