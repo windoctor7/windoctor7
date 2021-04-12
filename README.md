@@ -20,7 +20,15 @@ Actualmente trabajo en Grupo Salinas como director de sistemas.
 | Blogestry  |<img src="https://github.com/windoctor7/windoctor7.github.io/raw/master/static/img/blogestry-retina2.png" width=512>   |
 |---|---|
 
-### Hi there 👋
+## Mi Blog
+Escribo sobre temas de desarrollo de software, visítalo [aquí](https://windoctor7.github.io/)
+
+<img src="https://github.com/windoctor7/windoctor7.github.io/raw/master/assets/images/docker_kotlin.png"  width=256>
+
+## Algo más sobre mi
+Me gustan muchos los temas sobre finanzas personales e inversiones. Actualmente tengo un portafolio de inversión diversificado en Bolsa de Valores, Criptomonedas, Crowdfunding y SOFIPOS. Considero que estos temas son básicos y nunca nos lo enseñaron en la escuela, por lo cual disfruto enseñar a las personas sobre como tener finanzas personales sanas e invertir para crecer el patrimonio a largo plazo.
+
+Soy fan de Saint Seiya (Caballeros del Zodiaco) y X Files :sunglasses:
 
 <!--
 **windoctor7/windoctor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
