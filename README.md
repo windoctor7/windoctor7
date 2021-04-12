@@ -8,8 +8,13 @@ Me gusta compartir lo que aprendo, considero que es una excelente forma de segui
 Actualmente trabajo en Grupo Salinas como director de sistemas.
 
 ### Lenguajes de Programación  :rocket:
-|<img src="https://github.com/windoctor7/windoctor7/raw/main/img/javalogo.png" width=60> | <img src="https://github.com/windoctor7/windoctor7/raw/main/img/python_logo.png" width=60> |<img src="https://raw.githubusercontent.com/windoctor7/windoctor7/main/img/kotlin_logo.jpeg" width=60> | <img src="https://github.com/windoctor7/windoctor7/raw/main/img/elixir_logo.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/phplogo.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/dart.png" width=60> |
+|<img src="https://github.com/windoctor7/windoctor7/raw/main/img/javalogo.png" width=60> | <img src="https://github.com/windoctor7/windoctor7/raw/main/img/python_logo.png" width=60> |<img src="https://raw.githubusercontent.com/windoctor7/windoctor7/main/img/kotlin_logo.jpeg" width=60> | <img src="https://github.com/windoctor7/windoctor7/raw/main/img/elixir_logo.png" width=60> |<img src="https://github.com/windoctor7/windoctor7/raw/main/img/vacancy-sign.png" width=60> |<img src="https://github.com/windoctor7/windoctor7/raw/main/img/vacancy-sign.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+
+
+### Herramientas :fire:
+|<img src="https://github.com/windoctor7/windoctor7/raw/main/img/docker.png" width=60>| <img src="https://github.com/windoctor7/windoctor7/raw/main/img/vim_94609.png" width=60>| <img src="https://github.com/windoctor7/windoctor7/raw/main/img/RStudio.png" width=60>|  <img src="https://github.com/windoctor7/windoctor7/raw/main/img/intellij.png" width=60> |
+|:---:|:---:|:---:|:---:|
 
 ### Hi there 👋
 
